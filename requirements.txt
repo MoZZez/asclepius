@@ -1,5 +1,5 @@
 jupyter
-pymongo
+tinydb
 pillow
 pdf2image
 matplotlib
