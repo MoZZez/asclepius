@@ -1,0 +1,6 @@
+jupyter
+pymongo
+pillow
+pdf2image
+matplotlib
+streamlit
